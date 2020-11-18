@@ -7,3 +7,6 @@ Visit below links for reference:
 	https://askubuntu.com/questions/301540/export-image-as-svg-in-gimp<br/>
 
 	https://graphicdesign.stackexchange.com/questions/18088/exporting-an-object-as-svg-from-inkscape<br/>
+
+Please see xda-icon-svg.html for a sample file.<br/>
+CSS and JS files are needed to be imported.
