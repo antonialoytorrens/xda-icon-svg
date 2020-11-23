@@ -10,3 +10,9 @@ Visit below links for reference:
 
 Please see xda-icon-svg.html for a sample file.<br/>
 CSS and JS files are needed to be imported.
+
+## Basic Instructions
+
+* Clone the repository or download the zip file.
+* Extract in your computer.
+* Open .html file, done!
